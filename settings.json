@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "serwersurivival-UP9j.aternos.me:33756",
+    "ip": "serwersurivival-UP9j.aternos.me",
     "port": 33756,
     "version": "",
     "try-creative": false
